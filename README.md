@@ -1,4 +1,4 @@
-# Processamento de Linguagem Natura
+# Processamento de Linguagem Natural
 Disciplina UFABC, Python - 2023.1
 
 ## Projeto 01
